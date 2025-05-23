@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+# ✈️ Travelo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Travelo** is an advanced frontend travel booking web application designed to offer a complete and interactive user experience. Users can explore new places, book hotels, view attractions, and even simulate flight booking with a built-in payment gateway flow. This project focuses on frontend design and user interface logic using modern technologies.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## ✨ Key Features
 
-### `npm start`
+- 🌍 Explore new travel destinations
+- 🏨 Book hotels and discover places to visit
+- 📌 View things to see and do in each destination
+- ✈️ Book flight tickets with detailed selection
+- 🔍 Choose flights based on preferences (time, cost, etc.)
+- 🧾 Fill in personal details for ticket booking
+- 💳 Simulated payment gateway for final booking
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠️ Tech Stack
 
-### `npm test`
+- **Frontend**: React.js, HTML, CSS, JavaScript  
+- **Routing**: React Router  
+- **State Management**: useState, useEffect (or Context API if used)  
+- **UI Tools**: Custom CSS / TailwindCSS / Bootstrap (as used)  
+- **Utilities**: Git, GitHub
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 📱 Responsive Design
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Fully responsive layout compatible with desktops, tablets, and mobile devices.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📄 License
 
-### `npm run eject`
+This project is built for educational and portfolio purposes only.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
