@@ -4,6 +4,32 @@
 
 ---
 
+# 📸 Demo
+
+Home Page:
+
+![image](https://github.com/user-attachments/assets/8e68fff6-933f-4833-99fa-5606de3a6fe1)
+
+
+
+Places to Visit:
+
+![image](https://github.com/user-attachments/assets/5374bd23-96d9-45ed-bcad-fbff3822c37a)
+
+
+Explore Page:
+
+![image](https://github.com/user-attachments/assets/918a5dcc-6d5d-40aa-a353-3c051b4ed034)
+
+
+Book Ticekets:
+
+![image](https://github.com/user-attachments/assets/6f31751a-8376-4691-aea1-156d5bc2c7b3)
+
+
+
+
+
 ## ✨ Key Features
 
 - 🌍 Explore new travel destinations
