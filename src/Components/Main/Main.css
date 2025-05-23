@@ -1,0 +1,64 @@
+.main{
+    margin: 0px 100px;
+    margin-top: 150px;
+}
+.main-text{
+    color:white;
+    font-size: 70px;
+    font-weight: 500;
+    line-height: 90px;
+}
+.main_Explore{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    width: fit-content;
+    margin-top: 30px;
+    padding-left: 25px;
+    border-radius: 50px;
+    background-color: white;
+    cursor: pointer;
+}
+.main_Explore p{
+    color: #292929;
+    font-weight: 500;
+    margin-top: 12px;
+    font-size: 15px;
+}
+.Main-dot-play{
+    margin-top: 10px;
+    margin-left: 60px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.Main-dots{
+ display: flex;
+ align-items:center;
+ gap: 23px;
+ list-style: none;
+
+}
+.Main-dot{ 
+    width: 13px;
+    height: 13px;
+    background-color: white;
+    border-radius: 7.5px;
+    cursor: pointer;
+}
+.Main-dot.orange{
+    background-color: orangered;
+}
+.Video-play{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+
+}
+.Video-play img{
+    width: 65px;
+}
+.Video-play p{
+    color: white;
+    font-size: 18px;
+}
